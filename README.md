@@ -41,7 +41,6 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
 <ul><li>
 We propose a multilingual, AI-powered mobile advisory platform that delivers hyper-local, real-time insights to farmers. The solution includes:<b>
 - Personalized crop recommendations based on soil, weather, and crop history<b>
