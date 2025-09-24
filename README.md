@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:22/09/2025
+# Date:24/09/2025
 ## Register Number:25015904
 ## Name:L.Antony Aswin Kumar
 ## Problem Title
@@ -42,54 +42,50 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 <ul><li>
-We propose a multilingual, AI-powered mobile advisory platform that delivers hyper-local, real-time insights to farmers. The solution includes:<b>
-- Personalized crop recommendations based on soil, weather, and crop history<b>
-- Fertilizer and soil health guidance<b>
-- Predictive weather alerts and irrigation planning<b>
-- Pest and disease detection via image uploads<b>
-- Real-time mandi price tracking<b>
-- Voice-based interaction in regional languages<b>
-- Feedback loop for continuous model improvement<b>
-</li></ul>
+We propose a multilingual, AI-powered mobile advisory platform that delivers hyper-local, real-time insights to farmers. The solution includes:
+<li>- Personalized crop recommendations based on soil, weather, and crop history</li>
+<li>- Fertilizer and soil health guidance</li>
+<li>- Predictive weather alerts and irrigation planning</li>
+<li>- Pest and disease detection via image uploads</li>
+<li>- Real-time mandi price tracking</li>
+<li>- Voice-based interaction in regional languages</li>
+<li>- Feedback loop for continuous model improvement</li>
+</ul>
 
 ## Technical Approach
-<ul><li>Technologies to Be Used<b>
-- AI/ML Models: For crop advisory, pest detection, and predictive analytics<b>
-- Mobile App Frameworks: Flutter or React Native for cross-platform support<b>
-- Cloud Infrastructure: AWS or Azure for scalability and data storage<b>
-- Language Processing: NLP models for regional language support<b>
-- ImaSIH-25010/Agricultural Advisory System Flowchart.pngge Recognition: TensorFlow or PyTorch for pest/disease detection<b>
+<ul><li>Technologies to Be Used</li>
+<li>- AI/ML Models: For crop advisory, pest detection, and predictive analytics</li>
+<li>- Mobile App Frameworks: Flutter or React Native for cross-platform support</li>
+<li>- Cloud Infrastructure: AWS or Azure for scalability and data storage</li>
+<li>- - Language Processing: NLP models for regional language support</li>
+<li>- Image Recognition: TensorFlow or PyTorch for pest/disease detection</li>
+<img src ="SIH-25010/Agricultural Advisory System Flowchart.png>
 
 
 
 
 ## Feasibility and Viability
-<ul><li>FEASIBILITY ANALYSIS<b>
-- Availability of open agricultural datasets<b>
-- Proven success of ICT-based advisories<b>
-Potential Challenges<b>
-- Low digital literacy<b>
-- Connectivity issues in remote areas<b>
-- Resistance to tech adoption<b>
-Mitigation Strategies<b>
-- Voice-based UI and regional language support<b>
-- Offline functionality<b>
-- Training and awareness campaigns via NGOs and extension officer<b>
-</li></ul>
+<ul><li>FEASIBILITY ANALYSIS</li>
+<li>- Availability of open agricultural datasets</li>
+<li>- Proven success of ICT-based advisories</li>
+<li>Potential Challenges</li>
+<li>- Low digital literacy</li>
+<li>- Connectivity issues in remote areas</li>
+<li>- Resistance to tech adoption</li>
+<li>Mitigation Strategies</li>
+<li>- Voice-based UI and regional language support</li>
+<li>- Offline functionality</li>
+<li>- Training and awareness campaigns via NGOs and extension officer</li>
+</ul>
 
 ## Impact and Benefits
-<UL><li>- Boosts crop yield and income<b>
-- Reduces input costs and financial risk<b>
-- Empowers farmers with knowledge and autonomy<b>
-- Reduces dependency on middlemen<b>
-
-
-</li></ul>
+<UL><li>- Boosts crop yield and income</li>
+<li>- Reduces input costs and financial risk</li>
+<li>- Empowers farmers with knowledge and autonomy</li>
+<li>- Reduces dependency on middlemen</li></ul>
 
 ## Research and References
 
-<ul><li>- NABARD Report 2022: Link<b>
-- FAO & ICT4Ag Studies on yield improvement<b>
-- Government of India Agri-Tech Initiatives<b>
-
-</li></ul>
+<ul><li>- NABARD Report 2022: Link</li>
+<li>- FAO & ICT4Ag Studies on yield improvement</li>
+<li>- Government of India Agri-Tech Initiatives</li></ul>
