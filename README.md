@@ -59,8 +59,8 @@ We propose a multilingual, AI-powered mobile advisory platform that delivers hyp
 <li>- Cloud Infrastructure: AWS or Azure for scalability and data storage</li>
 <li>- - Language Processing: NLP models for regional language support</li>
 <li>- Image Recognition: TensorFlow or PyTorch for pest/disease detection</li>
-![alt text](<Agricultural Advisory System Flowchart.png>)
 
+![Alt text](flowchart.png)
 
 
 ## Feasibility and Viability
